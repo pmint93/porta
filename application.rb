@@ -7,6 +7,7 @@ require 'uri'
 require 'net/http'
 require 'json'
 require 'resolv'
+require 'semian'
 
 require 'byebug'
 
